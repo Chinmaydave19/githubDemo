@@ -9,8 +9,18 @@ public class Demo {
 		int a = 45;
 		int b = 88;
 		
+		
 		int c = a+b;
 		System.out.println(c);
+		
+//		Jayastu Patil
+		
+		String name = "Jayastu";
+		String surname = "Patil";
+		
+		String fullname = name+surname;
+		
+		System.out.println(fullname);
 
 	}
 
